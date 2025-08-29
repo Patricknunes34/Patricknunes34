@@ -28,6 +28,16 @@
 
 ---
 
+<h3 align="center">📊 Estatísticas e Atividade</h3>
+
+<div align="center" style="display: flex; justify-content: center; gap: 15px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Patricknunes34&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patricknunes34&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" alt="Linguagens mais usadas">
+</div>
+---
+
+---
+
 ## 🛠️ Stack Tecnológico
 
 ### 💻 **Linguagens de Programação**
