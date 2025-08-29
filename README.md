@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou [Seu Nome]
+# 👋 Olá, eu sou Patrick Albuquerque Nunes
 
 ### 🧠 Cientista de Dados | 📊 Analista | 💻 Desenvolvedor
 
@@ -23,8 +23,6 @@
 🤝 **Objetivo:** Colaborar em projetos que resolvam problemas reais com tecnologia e dados
 
 📈 **Especialidades:** Análise Preditiva, Visualização de Dados, Machine Learning
-
-🧩 **Hobbies:** Xadrez ♟️, Novos Frameworks 🚀, Kaggle Competitions 🏆
 
 <br clear="right"/>
 
@@ -53,34 +51,11 @@
 
 </div>
 
-### 🤖 **Machine Learning & AI**
-<div align="center">
-
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-</div>
-
-### ☁️ **Cloud & DevOps**
-<div align="center">
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
 ### 📊 **Visualização & BI**
 <div align="center">
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 </div>
 
@@ -90,46 +65,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[SEU_USUARIO])
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[SEU_EMAIL])
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/[SEU_USUARIO])
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@seuusuario)
-
-</div>
-
----
-
-## 📈 Estatísticas GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
-
-![Streak Stats](https://streak-stats.demolab.com?user=SEUUSUARIO&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff)
-
-</div>
-
----
-
-## 🏆 Conquistas & Atividades
-
-<div align="center">
-
-![Troféus](https://github-profile-trophy.vercel.app/?username=SEUUSUARIO&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
-
-### 📊 **Contribuições Semanais**
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEUUSUARIO&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[[SEU_USUARIO](https://www.linkedin.com/in/patrick-nunes-a2b054308/)])
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[nunespatrick42@gmail.com])
+[![Portfolio](https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=appveyor&logoColor=white)](https://patricknunes34.github.io/Portfolio-Page-Responsivo/?fbclid=PAZXh0bgNhZW0CMTEAAaf9SMIGQCzP7WcnSMduG63zQe24HkP4ovpSBJ7rBDU-fJI8KAa0nkyavjV0mQ_aem_Ucw_wXtlucx0Z1iBgVIobw)
 </div>
 
 ---
@@ -148,14 +86,15 @@
 <td>
 
 ```
-    ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜
-    ♟ ♟ ♟ ♟ ♟ ♟ ♟ ♟
-    ▓ ░ ▓ ░ ▓ ░ ▓ ░
-    ░ ▓ ░ ▓ ░ ▓ ░ ▓
-    ▓ ░ ▓ ░ ▓ ░ ▓ ░
-    ░ ▓ ░ ♙ ░ ▓ ░ ▓
-    ♙ ♙ ♙ ░ ♙ ♙ ♙ ♙
-    ♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖
+♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜
+♟ ♟ ♟ ♟ ♟ ♟ ♟ ♟
+░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓
+▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░
+░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓
+▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░
+♙ ♙ ♙ ♙ ♙ ♙ ♙ ♙
+♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖
+
 ```
 
 </td>
@@ -175,9 +114,6 @@
 <div align="center">
 
 ### 💭 **"Dados são o novo petróleo, mas insights são o ouro refinado."**
-
-<img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&label=Visitantes&color=58a6ff&style=for-the-badge" alt="Contador de visitantes"/>
-
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=100&section=footer&text=Obrigado%20pela%20visita!&fontSize=16&fontColor=ffffff&animation=twinkling"/>
