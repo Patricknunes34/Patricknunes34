@@ -142,7 +142,10 @@
 
 *"O xadrez é como a ciência de dados: cada movimento requer análise, estratégia e previsão dos próximos passos."*
 
-<br>
+<div align="center">
+<table>
+<tr>
+<td>
 
 ```
     ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜
@@ -154,6 +157,16 @@
     ♙ ♙ ♙ ░ ♙ ♙ ♙ ♙
     ♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖
 ```
+
+</td>
+<td>
+
+<img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" alt="Peças de xadrez animadas" width="200"/>
+
+</td>
+</tr>
+</table>
+</div>
 
 </div>
 
