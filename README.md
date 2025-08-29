@@ -71,6 +71,12 @@
 <p align="center">
   Quando não estou analisando dados, estou jogando xadrez ♟️ ou estudando novos frameworks 🚀
 </p>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJjbzRpN3RlbXN2bW40a2x4cGZ0a2w3dDAwdjY3MGM3bjVjMWp2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VzQ9igFvHj7xW/giphy.gif" alt="Animação de Xadrez">
+  <!-- GIF de tabuleiro de xadrez “jogando sozinho” -->
+  <img 
+    src="https://media.giphy.com/media/3o7TKwzZq2F5gQ9Vra/giphy.gif" 
+    alt="Tabuleiro de xadrez jogando sozinho" 
+    width="520"
+  />
 </p>
